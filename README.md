@@ -6,7 +6,6 @@
 
 ### 🏆 About Me
 - 💻 Passionate about **Web Development & Cybersecurity**
-- 🎓 Currently learning **DSA (Apna College Alpha Batch) & Machine Learning**
 - 🔐 Exploring the world of **Cybersecurity & Ethical Hacking**
 - 🛠️ Building **The Quaero** – A cybersecurity SaaS platform ([Live](https://thequaero.netlify.app/))
 - 🎯 Participating in **Hackathons & Competitive Coding**
@@ -32,25 +31,10 @@
 
 ---
 
-### 🔥 Current Projects
-- **3DVerse** – A digital exam management solution.
-- **NextTest** – A real-time chat app with Clerk & Stream.
-- **MediMeet** – A doctor appointment booking app.
-- **Mastek Deep Blue Hackathon Project** – AI-based attribute estimation.
-
----
-
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zufiya-Idrisi&theme=radical&hide_border=true)
-![Zufiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zufiya-Idrisi&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zufiya-Idrisi&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/zufiya-idrisi)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=flat-square)](https://thequaero.netlify.app/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/zufiyaidrisi9797)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=flat-square)](https://zufiya-idrisi.netlify.app/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Zufiya_Idrisi)
 
 ---
 
