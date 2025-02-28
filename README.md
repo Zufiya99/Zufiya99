@@ -1,5 +1,3 @@
-![Header](https://your-banner-image-url.com)
-
 # 👋 Hi, I'm Zufiya Idrisi!
 
 🚀 **Full-Stack Developer | Cybersecurity Enthusiast | Tech Explorer**
