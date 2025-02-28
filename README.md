@@ -8,12 +8,10 @@
 
 ## 🏆 About Me
 - 💻 Passionate about **Web Development, Cybersecurity, and Machine Learning**
-- 🎓 Currently mastering **DSA (Apna College Alpha Batch) & ML**
 - 🔐 Learning **Ethical Hacking & Cybersecurity Hands-on**
-- 🛠️ Building **The Quaero** – A cybersecurity SaaS platform ([Live](https://thequaero.netlify.app/))
 - 🎯 **Freelancer** | **Hackathon Enthusiast** | **AWS Core Committee Member**
-- 🏆 **President of Coders Clique** | **SIH 2023 Finalist**
-- 🏅 **Mastek Deep Blue S10 & S9 Semi-Finalist**
+- 🏆 **President of Coders Clique of ACM MHSSCE** | **SIH 2023 Finalist**
+- 🏅 **Mastek Deep Blue S9 & S10 Semi-Finalist**
 
 ---
 
@@ -49,23 +47,13 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zufiya-Idrisi&theme=radical&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zufiya-Idrisi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zufiya-Idrisi&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zufiya-idrisi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://thequaero.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/zufiyaidrisi9797"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="[https://thequaero.netlify.app/](https://zufiya-idrisi.netlify.app/)"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge"></a>
   <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/-X-000?logo=x&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:zufiya.idrisi@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:idrisizufiya@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
